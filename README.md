@@ -22,3 +22,7 @@ Angry Bird is a 2D game inspired by Flappy Bird, developed using Java Swing and 
 1. Clone the repository:
    ```bash
    git clone https://github.com/BhimUpd/Angry-Bird-Game---Java.git
+
+
+![Alt text](![gamebg](https://github.com/user-attachments/assets/57a36756-66f1-4cb4-a800-fc17203da93c))
+
